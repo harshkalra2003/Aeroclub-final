@@ -1,0 +1,8 @@
+<div class="copyright">
+            <p>&copy; Copyright. Aeroclub </p>
+            <p>Made By Web Development Team</p>
+            <a href="https://www.facebook.com/AeromodellingClubHBTU" class="fa fa-facebook"></a>
+            <a href="https://www.linkedin.com/company/aeroclub-hbtu-kanpur/" class="fa fa-linkedin"></a>
+            <a href="https://instagram.com/aeroclub.hbtu?igshid=YmMyMTA2M2Y=" class="fa fa-instagram"></a>
+
+        </div>
